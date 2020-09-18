@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.ValidaCPFTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-09-18T21:31:23" hostname="DELL-INSPIRON" time="0.03">
+  <properties/>
+  <testcase name="validarCPFVazio()" classname="model.ValidaCPFTest" time="0.024"/>
+  <testcase name="validarCPFFake()" classname="model.ValidaCPFTest" time="0.001"/>
+  <testcase name="validarCPFTrue()" classname="model.ValidaCPFTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
